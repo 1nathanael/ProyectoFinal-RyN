@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace ProyectoFinal_RyN_
+namespace ProyectoFinal_RyN
 {
     public class RouteConfig
     {
